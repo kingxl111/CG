@@ -1,0 +1,1 @@
+g++ -std=c++11 game.cpp -lGL -lGLU -lglut -o game
